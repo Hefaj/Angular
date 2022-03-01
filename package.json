@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@angular/router": "^13.2.4"
+  }
+}
